@@ -42,6 +42,22 @@
         <!-- car sidebar -->
 
         <!-- car cards -->
+        <div class="w-full">
+          <!-- car card  -->
+          <div class="shadow border w-full overflow-hidden mb-5 cursor-pointer h-[200px]">
+            <div class="flex h-full">
+              <img src="https://cdn.imagin.studio/getImage?&customer=carwow&tailoring=carwow&make=volvo&modelFamily=xc40&modelRange=recharge&modelVariant=od&modelYear=2020&powerTrain=fossil&transmission=0&bodySize=5&trim=0&paintId=pspc0188&fileType=png&zoomType=fullscreen&width=800&angle=23&billingTag=web" alt="" class="w-[300px] h-full">
+              <div class="p-4 flex flex-col">
+                <div>
+                  <h1 class="text-2xl text-blue-700">Volco Thing</h1>
+                  <p class="text-gray-700">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                </div>
+                <h1 class="mt-auto text-xl">45,000</h1>
+              </div>
+            </div>
+          </div>
+          <!-- car card  -->
+        </div>
         <!-- car cards -->
       </div>
     </div>
