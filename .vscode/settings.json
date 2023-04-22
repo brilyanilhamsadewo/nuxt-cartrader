@@ -1,0 +1,15 @@
+{
+    "tailwindCSS.emmetCompletions": true,
+    "editor.inlineSuggest.enabled": true,
+    "editor.quickSuggestions": {
+        "strings": true
+    },
+    "css.validate": false,
+    "volar.format.initialIndent": {
+
+        "html": true
+    },
+    "vue.features.autoInsert.dotValue": true,
+    "vue.features.inlayHints.inlineHandlerLeading": true,
+    "vue.features.inlayHints.missingProps": true,
+}
